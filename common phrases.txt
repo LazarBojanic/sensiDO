@@ -5,7 +5,7 @@ Pažnja
 Ton uz ton
 Toniranje
 Trajno farbanje
-Polu-trajno farbanje
+Polutrajno farbanje
 3%  Ton uz ton, tamnija kao i pokrivenost sede kose 
 6%  Ton uz ton, tamnija ili 1 nivo svetlija 
 9%  Oko 2 nivoa podizanje
